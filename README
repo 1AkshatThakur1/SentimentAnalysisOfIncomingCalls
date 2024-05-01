@@ -1,1 +1,3 @@
 
+
+In an era dominated by digital communication and multimedia content, the ability to extract sentiment and emotion from spoken language is increasingly valuable. This project presents a Python-based system for sentiment analysis on audio input, leveraging the capabilities of SpeechRecognition, NLTK (Natural Language Toolkit), and the NRC (National Research Council) Emotion Lexicon. The system allows users to input audio either through a microphone or by providing an audio file, with sentiment analysis results displayed in a user-friendly interface.
